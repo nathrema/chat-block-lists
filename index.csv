@@ -1,2 +1,3 @@
 filename|title|description|site|category|target|method
 any_bots.txt|Bots|||chat-text|username|equals
+any_sponsors.txt|Sponsors|||chat-text|message|contains
